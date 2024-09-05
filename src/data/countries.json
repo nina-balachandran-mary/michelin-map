@@ -1,0 +1,162 @@
+{
+  "FR": {
+    "name": "France (incl. Monaco)",
+    "count": 30,
+    "geometry": [
+      46.0,
+      2.0
+    ]
+  },
+  "JP": {
+    "name": "Japan",
+    "count": 20,
+    "geometry": [
+      36.0,
+      138.0
+    ]
+  },
+  "ES": {
+    "name": "Spain",
+    "count": 15,
+    "geometry": [
+      40.0,
+      -4.0
+    ]
+  },
+  "IT": {
+    "name": "Italy",
+    "count": 13,
+    "geometry": [
+      42.8333,
+      12.8333
+    ]
+  },
+  "US": {
+    "name": "United States of America",
+    "count": 13,
+    "geometry": [
+      38.0,
+      -97.0
+    ]
+  },
+  "DE": {
+    "name": "Germany",
+    "count": 10,
+    "geometry": [
+      51.0,
+      9.0
+    ]
+  },
+  "HK": {
+    "name": "Hong Kong and Macau",
+    "count": 9,
+    "geometry": [
+      22.3193,
+      114.1694
+    ]
+  },
+  "GB": {
+    "name": "United Kingdom",
+    "count": 9,
+    "geometry": [
+      51.505,
+      -0.09
+    ]
+  },
+  "CN": {
+    "name": "China Mainland",
+    "count": 5,
+    "geometry": [
+      35.8617,
+      104.1954
+    ]
+  },
+  "CH": {
+    "name": "Switzerland",
+    "count": 4,
+    "geometry": [
+      46.8182,
+      8.2275
+    ]
+  },
+  "TW": {
+    "name": "Taiwan",
+    "count": 3,
+    "geometry": [
+      23.6978,
+      120.9605
+    ]
+  },
+  "SG": {
+    "name": "Singapore",
+    "count": 3,
+    "geometry": [
+      1.3521,
+      103.8198
+    ]
+  },
+  "DK": {
+    "name": "Denmark",
+    "count": 3,
+    "geometry": [
+      56.2639,
+      9.5018
+    ]
+  },
+  "BE": {
+    "name": "Belgium",
+    "count": 2,
+    "geometry": [
+      50.5039,
+      4.4699
+    ]
+  },
+  "NO": {
+    "name": "Norway",
+    "count": 2,
+    "geometry": [
+      60.4720,
+      8.4689
+    ]
+  },
+  "NL": {
+    "name": "Netherlands",
+    "count": 1,
+    "geometry": [
+      52.1326,
+      5.2913
+    ]
+  },
+  "AT": {
+    "name": "Austria",
+    "count": 1,
+    "geometry": [
+      47.5162,
+      14.5501
+    ]
+  },
+  "SI": {
+    "name": "Slovenia",
+    "count": 1,
+    "geometry": [
+      46.1512,
+      14.9955
+    ]
+  },
+  "KR": {
+    "name": "South Korea",
+    "count": 1,
+    "geometry": [
+      35.9078,
+      127.7669
+    ]
+  },
+  "SE": {
+    "name": "Sweden",
+    "count": 1,
+    "geometry": [
+      60.1282,
+      18.6435
+    ]
+  }
+}
