@@ -19,7 +19,7 @@ export default function Map({restaurants}: MapState) {
     const minZoom = 2;
     const maxZoom = 22;
     const zoom = 1;
-    MapTiler.config.apiKey = 'gVDrLYh82dJxZhHkBNZW';
+    // MapTiler.config.apiKey = 'gVDrLYh82dJxZhHkBNZW';
 
     useEffect(() => {
         if (map.current) return; // stops map from initializing more than once
